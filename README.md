@@ -1,2 +1,2 @@
-# Discussion
-This repo is for discussing issues
+This repository is only for tech related discussions.
+  
